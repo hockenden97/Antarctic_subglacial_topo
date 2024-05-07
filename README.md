@@ -17,6 +17,9 @@ This script was used to calculate various metrics for the IFPA bed topography, a
 ### Antarctic_subglacial_topography.ipynb
 This Jupyter notebook contains the code required to reproduce figure 1 - A3 from the manuscript. 
 
+### Figure_A1abc.py
+This python script contains the code required to reproduce figure A1 panels a and b from the manuscript. (Provided as a separate script as the datasets to plot the bed topography for the entire continent are large and load slowly in notebook form.). 
+
 ### Map_plots.py
 This python script contains the code required to reproduce figures A4 - A39 from the manuscript - comparative figures of the new IFPA bed topography, and the bed topography from Bedmachine Antarctica (Morlighem et al. 2020). 
 
